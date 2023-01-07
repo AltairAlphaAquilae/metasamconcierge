@@ -85,7 +85,7 @@
 .item {
   display: block;
   position: absolute;
-  width: 33%;/*横並びで3つ表示*/
+  width: 19%;/*横並びで3つ表示*/
   padding:0 10px 10px 10px;/*画像に余白をつける*/
   z-index: 1;
 }
